@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.fa-solid, .fas {
+  float: right;
+  font-weight: 900;
+  position: relative;
+  margin-top: -53px;
+}
+.image{
+  width: 42px;
+  height: 41px;
+}
